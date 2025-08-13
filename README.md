@@ -1,5 +1,5 @@
-<h1 align="center" class="typewriter">Hi 👋, I'm <span id="name">Thilakroshan</span></h1>
-<h3 align="center" class="typewriter">🧠 Debugging My Way to Full Stack Mastery</h3>
+<h1 align="center">Hi 👋, I'm <span id="name">Thilakroshan</span></h1>
+<h3 align="center">🧠 Debugging My Way to Full Stack Mastery</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=thilakroshan&label=Profile%20views&color=0e75b6&style=flat" alt="thilakroshan" /> 
